@@ -1,0 +1,26 @@
+{
+"mascotas":[
+    {
+    "id":"0",
+    "nombre":"tato",
+	"foto":"tatoimg",
+	"codigoqr":"tato",
+	"ruta":"Carrera 30 con Calle 28",
+	"jornada":"AM"},
+	{
+	"id":"1",
+    "nombre":"michi",
+	"foto":"michiimg",
+	"codigoqr":"michi",
+	"ruta":"Carrera 31 con Calle 29",
+	"jornada":"PM"},
+	{
+	"id":"2",
+    "nombre":"maria",
+	"foto":"mariaimg",
+	"codigoqr":"maria",
+	"ruta":"Carrera 32 con Calle 30",
+	"jornada":"FULL"}
+	
+]
+}
